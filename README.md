@@ -68,3 +68,21 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 - Minor inconsistencies in text case and spacing (e.g., " male", "FEMALE ") were standardized.
 
 ---
+## Dataset Name: Mall Customer Segmentation Data
+- This dataset contains demographic and spending behavior information about customers visiting a mall. It is often used for clustering and segmentation analysis to identify different types of shoppers.
+---
+## Project Content
+- File / Folder Name	Description
+- Mall_Customers.csv -- 	Original raw dataset downloaded from Kaggle
+- Mall_Customers_Cleaned.csv	--Final cleaned dataset after preprocessing
+- data_cleaning.py	-- Python script performing all data cleaning steps
+- README.md --	Project documentation with methods, insights, visualizations
+---
+
+## Summary of Key Actions
+1. Loaded dataset and explored shape, nulls, and types.
+2. Cleaned and standardized data (removed duplicates, fixed text, corrected types).
+
+3. Generated essential visualizations.
+4. Extracted insights and documented anomalies.
+5. Answered related interview-style questions for practice.
