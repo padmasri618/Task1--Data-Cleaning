@@ -30,7 +30,8 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ### 1. Gender Distribution
 
-![Gender Distribution]
+![image1](https://github.com/user-attachments/assets/bfe3b5bd-cc84-4d75-852b-323789360ff9)
+
 
 > Shows a relatively balanced count of Male vs Female customers.
 
@@ -38,7 +39,6 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ### 2. Age Distribution
 
-![Age Distribution]
 
 > Most customers fall between the ages of 30 and 40.
 
