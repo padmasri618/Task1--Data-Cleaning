@@ -14,7 +14,7 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ---
 
-## 🛠️ Steps Performed
+##  Steps Performed
 
  Step                        -             Description       
  Missing Value Check        - Used `.isnull().sum()` — no missing values found                           
@@ -30,7 +30,7 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ### 1. Gender Distribution
 
-![Gender Distribution](gender_distribution.png)
+![Gender Distribution]
 
 > Shows a relatively balanced count of Male vs Female customers.
 
@@ -38,7 +38,7 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ### 2. Age Distribution
 
-![Age Distribution](age_distribution.png)
+![Age Distribution]
 
 > Most customers fall between the ages of 30 and 40.
 
@@ -46,7 +46,7 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ### 3. Income vs Spending Score
 
-![Income vs Spending Score](income_vs_spending.png)
+![Income vs Spending Score]
 
 > Identifies distinct customer clusters based on income and spending behavior.
 
@@ -60,7 +60,7 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ---
 
-## ⚠ Anomalies or Issues
+##  Anomalies or Issues
 
 - No major anomalies detected.
 - Minor inconsistencies in text case and spacing (e.g., " male", "FEMALE ") were standardized.
