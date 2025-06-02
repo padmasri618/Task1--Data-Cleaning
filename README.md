@@ -38,6 +38,7 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 ---
 
 ### 2. Age Distribution
+![image2](https://github.com/user-attachments/assets/7192d7f4-b604-4c84-b623-bede19583889)
 
 
 > Most customers fall between the ages of 30 and 40.
@@ -46,7 +47,8 @@ To clean and preprocess the `Mall_Customers.csv` dataset by handling missing val
 
 ### 3. Income vs Spending Score
 
-![Income vs Spending Score]
+![image3](https://github.com/user-attachments/assets/df6e7607-93ec-4243-8462-2d2feae6c661)
+
 
 > Identifies distinct customer clusters based on income and spending behavior.
 
